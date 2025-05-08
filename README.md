@@ -56,9 +56,9 @@ A sophisticated tool for analyzing keyword clusters against website content usin
 
 ```bash
 
-git clone https://github.com/yourusername/keyword-analyzer.git
+git clone https://github.com/upmanya1/Key_relevancy.git
 
-cd keyword-analyzer
+cd Key_relevancy
 
 Install Dependencies
 
@@ -174,10 +174,6 @@ Create feature branch (git checkout -b feature/improvement)
 Commit changes (git commit -am 'Add new feature')
 Push branch (git push origin feature/improvement)
 Open Pull Request
-License 📄
-MIT License - See LICENSE for details
-
-
 
 Project Roadmap
 ✅ Core analysis pipeline
