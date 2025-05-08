@@ -1,0 +1,12 @@
+langchain_google_genai
+google-generativeai
+pandas
+numpy
+requests
+beautifulsoup4
+rank_bm25
+scikit-learn
+sentence-transformers
+matplotlib
+python-dotenv
+tqdm
