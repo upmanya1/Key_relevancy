@@ -1,5 +1,3 @@
-Here's a comprehensive README.md file for your project:
-
 # Keyword Relevance Analyzer 🔍📊
 
 A sophisticated tool for analyzing keyword clusters against website content using semantic clustering, statistical analysis, and large language models (LLMs).
